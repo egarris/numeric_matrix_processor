@@ -11,5 +11,5 @@ Topics covered include:
 - Algorithms in Python
 - OOP
 
-*Completed 3/4/2020*
+*Completed 3/4/2020* \
 https://www.jetbrains.com/academy/
